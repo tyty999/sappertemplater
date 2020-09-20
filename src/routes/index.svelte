@@ -17,7 +17,7 @@
 
 	img {
 		width: 100%;
-		max-width: 400px;
+		max-width: 200px;
 		margin: 0 0 1em 0;
 	}
 
@@ -39,7 +39,7 @@
 <h1>Great now start modify this site!</h1>
 
 <figure>
-	<img alt='Borat' src='great-success.png' width='250'>
+	<img alt='Borat' src='great-success.png'>
 	<figcaption>HIGH FIVE!</figcaption>
 </figure>
 
