@@ -39,7 +39,7 @@
 <h1>Great now start modify this site!</h1>
 
 <figure>
-	<img alt='Borat' src='great-success.png'>
+	<img alt='Borat' src='great-success.png' width='250'>
 	<figcaption>HIGH FIVE!</figcaption>
 </figure>
 
